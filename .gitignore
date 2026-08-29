@@ -1,10 +1,10 @@
-.env.local
+node_modules/
 redteam-report.json
 
 # Dependencies and build output
-node_modules/
 dist/
 coverage/
 logs/
 *.log
-
+.DS_Store
+config.bat

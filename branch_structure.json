@@ -1,0 +1,33 @@
+{
+  "default_branch": "master",
+  "branches": [
+    "dev",
+    "feat/prompt-isolation-trust-zones",
+    "master",
+    "origin",
+    "product",
+    "release-please--branches--master--components--sdk",
+    "release-please--branches--master--components--sdk-core",
+    "solomon_is_back"
+  ],
+  "parent": {
+    "dev": "master",
+    "feat/prompt-isolation-trust-zones": "master",
+    "master": null,
+    "origin": "master",
+    "product": "master",
+    "release-please--branches--master--components--sdk": "master",
+    "release-please--branches--master--components--sdk-core": "release-please--branches--master--components--sdk",
+    "solomon_is_back": "master"
+  },
+  "order": [
+    "master",
+    "dev",
+    "feat/prompt-isolation-trust-zones",
+    "origin",
+    "product",
+    "release-please--branches--master--components--sdk",
+    "solomon_is_back",
+    "release-please--branches--master--components--sdk-core"
+  ]
+}
